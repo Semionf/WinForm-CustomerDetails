@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\obj\Debug\CustomersDetails.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\obj\Debug\CustomersDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\obj\Debug\CustomersDetails.Form1.resources
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\obj\Debug\CustomersDetails.Properties.Resources.resources
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\obj\Debug\CustomersDetails.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\obj\Debug\CustomersDetails.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\bin\Debug\CustomersDetails.exe.config
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\bin\Debug\CustomersDetails.exe
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\bin\Debug\CustomersDetails.pdb
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\obj\Debug\CustomersDetails.exe
+C:\Users\User\source\repos\CustomersDetails\CustomersDetails\obj\Debug\CustomersDetails.pdb
